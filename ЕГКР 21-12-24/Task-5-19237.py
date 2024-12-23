@@ -15,6 +15,7 @@ for N in range(1, 100_000):
     R = int(R, 3)
     if R > 220 and R % 2 == 0:
         ans.append(R)
+
 print(min(ans))
 
 
