@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed">
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(with append, not def)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +50,14 @@
   "keyToString": {
     "Python.Task -8-23-12-2024.executor": "Run",
     "Python.Task-1-1845.executor": "Run",
+    "Python.Task-1-18916.executor": "Run",
     "Python.Task-1-4581.executor": "Run",
     "Python.Task-1-4606.executor": "Run",
     "Python.Task-14-12246.executor": "Run",
+    "Python.Task-14-18122.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
+    "Python.Task-5-14327.executor": "Run",
+    "Python.Task-5-18578.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -123,13 +127,55 @@
       <option name="project" value="LOCAL" />
       <updated>1736172772592</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed">
+      <option name="closed" value="true" />
+      <created>1736174733147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736174733147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed">
+      <option name="closed" value="true" />
+      <created>1736174854395</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736174854395</updated>
+    </task>
+    <task id="LOCAL-00008" summary="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed">
+      <option name="closed" value="true" />
+      <created>1736175285753</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736175285753</updated>
+    </task>
+    <task id="LOCAL-00009" summary="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(not append, with break)">
+      <option name="closed" value="true" />
+      <created>1736176240352</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736176240352</updated>
+    </task>
+    <task id="LOCAL-00010" summary="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(with append, not def)">
+      <option name="closed" value="true" />
+      <created>1736179376813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736179376813</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://kompege.ru/variant?kim=25073855&#10;Task 8 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25074545&#10;Task 1 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(not append, with break)" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(with append, not def)" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(with append, not def)" />
   </component>
 </project>
