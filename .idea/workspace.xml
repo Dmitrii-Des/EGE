@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25070441&#10;Task 5 completed(with list)">
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25070441&#10;Task 6 completed(If a function is placed before a done(), then it is necessary to close the turtle window)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.Task-14-12246.executor": "Run",
     "Python.Task-14-18122.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
+    "Python.Task-2-1846.executor": "Run",
     "Python.Task-5-14327.executor": "Run",
     "Python.Task-5-18578.executor": "Run",
     "Python.Task-5-18920.executor": "Run",
@@ -193,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736435792640</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="https://kompege.ru/variant?kim=25070441&#10;Task 6 completed(If a function is placed before a done(), then it is necessary to close the turtle window)">
+      <option name="closed" value="true" />
+      <created>1736437326250</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736437326250</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,7 +213,8 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(with append, not def)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25070441&#10;Task 1 completed(with list)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25070441&#10;Task 5 completed(with list)" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25070441&#10;Task 5 completed(with list)" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25070441&#10;Task 6 completed(If a function is placed before a done(), then it is necessary to close the turtle window)" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25070441&#10;Task 6 completed(If a function is placed before a done(), then it is necessary to close the turtle window)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
