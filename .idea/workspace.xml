@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25075731&#10;Completed Task 2" />
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25075731&#10;Completed Task 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +58,7 @@
     "Python.Task-14-19406.executor": "Run",
     "Python.Task-2-1846.executor": "Run",
     "Python.Task-2-4582.executor": "Run",
+    "Python.Task-2-4607.executor": "Run",
     "Python.Task-5-14327.executor": "Run",
     "Python.Task-5-18578.executor": "Run",
     "Python.Task-5-18920.executor": "Run",
@@ -209,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736779249803</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="https://kompege.ru/variant?kim=25075731&#10;Completed Task 2">
+      <option name="closed" value="true" />
+      <created>1736780035865</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736780035865</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
