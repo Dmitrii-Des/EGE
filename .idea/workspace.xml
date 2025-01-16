@@ -58,6 +58,7 @@
     "Python.Task-14-12246.executor": "Run",
     "Python.Task-14-18122.executor": "Run",
     "Python.Task-14-19406.executor": "Run",
+    "Python.Task-2-13797.executor": "Run",
     "Python.Task-2-14390.executor": "Run",
     "Python.Task-2-1846.executor": "Run",
     "Python.Task-2-4582.executor": "Run",
@@ -275,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737037980410</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="https://kompege.ru/variant?kim=25076364&#10;Completed Task 1">
+      <option name="closed" value="true" />
+      <created>1737039400904</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737039400904</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
