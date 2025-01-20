@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25077094&#10;Completed Task 2(method 2)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25077099&#10;Task 15 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737383966151</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="https://kompege.ru/variant?kim=25077099&#10;Task 15 completed">
+      <option name="closed" value="true" />
+      <created>1737385893567</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737385893567</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -340,7 +346,8 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25076370&#10;Completed Task 2" />
     <MESSAGE value="https://kompege.ru/variant?kim=25077094&#10;Completed Task 2" />
     <MESSAGE value="https://kompege.ru/variant?kim=25077094&#10;Completed Task 2(method 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25077094&#10;Completed Task 2(method 2)" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25077099&#10;Task 15 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25077099&#10;Task 15 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
