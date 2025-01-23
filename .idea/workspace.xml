@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25077099&#10;Task 15 completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25077879&#10;Task 5 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,46 +44,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Task -8-23-12-2024.executor": "Run",
-    "Python.Task-1-14443.executor": "Run",
-    "Python.Task-1-1845.executor": "Run",
-    "Python.Task-1-18916.executor": "Debug",
-    "Python.Task-1-4581.executor": "Run",
-    "Python.Task-1-4606.executor": "Run",
-    "Python.Task-1-9148.executor": "Run",
-    "Python.Task-14-12246.executor": "Run",
-    "Python.Task-14-18122.executor": "Run",
-    "Python.Task-14-19406.executor": "Run",
-    "Python.Task-15-1859.executor": "Run",
-    "Python.Task-15-4595.executor": "Run",
-    "Python.Task-15-4620.executor": "Run",
-    "Python.Task-2-13077.executor": "Run",
-    "Python.Task-2-13089.executor": "Run",
-    "Python.Task-2-13797.executor": "Run",
-    "Python.Task-2-14390.executor": "Run",
-    "Python.Task-2-1846.executor": "Run",
-    "Python.Task-2-4459(1).executor": "Run",
-    "Python.Task-2-4459.executor": "Run",
-    "Python.Task-2-4582.executor": "Run",
-    "Python.Task-2-4607.executor": "Run",
-    "Python.Task-2-7667.executor": "Run",
-    "Python.Task-2-9733.executor": "Run",
-    "Python.Task-2-9771.executor": "Run",
-    "Python.Task-5-10657.executor": "Run",
-    "Python.Task-5-14327.executor": "Run",
-    "Python.Task-5-18578.executor": "Run",
-    "Python.Task-5-18920.executor": "Run",
-    "Python.Task-5-19237.executor": "Run",
-    "Python.Task-6-18921.executor": "Run",
-    "Python._pydev_execfile.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/DHohlov/Desktop/EGE/06-01-25"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task -8-23-12-2024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-14443.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-1845.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-18916.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Task-1-4581.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-4606.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-1-9148.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-12246.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-18122.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-14-19406.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15-1859.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15-4595.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-15-4620.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-13077.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-13089.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-13797.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-14390.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-1846.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-4459(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-4459.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-4582.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-4607.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-7667.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-9733.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-9771.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-10657.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-14327.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-18578.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-18920.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-5-19237.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-6-18921.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DHohlov/Desktop/EGE/06-01-25&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DHohlov\Desktop\EGE\06-01-25" />
@@ -364,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737388790383</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="https://kompege.ru/variant?kim=25077879&#10;Task 5 completed">
+      <option name="closed" value="true" />
+      <created>1737642044370</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1737642044370</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -384,7 +390,8 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25077094&#10;Completed Task 2" />
     <MESSAGE value="https://kompege.ru/variant?kim=25077094&#10;Completed Task 2(method 2)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25077099&#10;Task 15 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25077099&#10;Task 15 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25077879&#10;Task 5 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25077879&#10;Task 5 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
