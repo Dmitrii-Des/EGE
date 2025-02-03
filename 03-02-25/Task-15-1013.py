@@ -1,7 +1,7 @@
 from itertools import combinations
 
 def f(x):
-    P = 23 <= x <= 45
+    P = 23 <= x < 45
     Q = 34 <= x <= 56
     A = A1 <= x <= A2
     return (not A) or (not P) and Q
