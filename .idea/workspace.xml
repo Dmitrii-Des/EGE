@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25080912&#10;Task 2 completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="gitignore">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,22 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00004" summary="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed">
-      <option name="closed" value="true" />
-      <created>1736172754655</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1736172754655</updated>
-    </task>
-    <task id="LOCAL-00005" summary="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed">
-      <option name="closed" value="true" />
-      <created>1736172772592</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1736172772592</updated>
     </task>
     <task id="LOCAL-00006" summary="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed">
       <option name="closed" value="true" />
@@ -518,12 +502,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738852162575</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="https://kompege.ru/variant?kim=25080912&#10;Task 12 completed">
+      <option name="closed" value="true" />
+      <created>1738853073539</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1738853073539</updated>
+    </task>
+    <task id="LOCAL-00054" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1738853276958</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1738853276958</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25073855&#10;Task 8 completed" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25074545&#10;Task 1 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25075086&#10;Task 14 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(not append, with break)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25075086&#10;Task 5 completed(with append, not def)" />
@@ -547,7 +545,9 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25078603&#10;Task 15 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25080912&#10;Task 1 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25080912&#10;Task 2 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25080912&#10;Task 2 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25080912&#10;Task 12 completed" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
