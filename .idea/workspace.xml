@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25081654&#10;Task 17 completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25082369&#10;Task 1 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +80,7 @@
     "Python.Task-2-13797.executor": "Run",
     "Python.Task-2-14390.executor": "Run",
     "Python.Task-2-14651.executor": "Run",
+    "Python.Task-2-1528.executor": "Run",
     "Python.Task-2-1846.executor": "Run",
     "Python.Task-2-4459(1).executor": "Run",
     "Python.Task-2-4459.executor": "Run",
@@ -142,14 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00017" summary="https://kompege.ru/variant?kim=25075731&#10;Completed Task 2(New method)">
-      <option name="closed" value="true" />
-      <created>1736782498989</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1736782498989</updated>
     </task>
     <task id="LOCAL-00018" summary="https://kompege.ru/variant?kim=25075731&#10;Completed Task 2(New method)">
       <option name="closed" value="true" />
@@ -535,11 +526,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739456301574</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="https://kompege.ru/variant?kim=25082369&#10;Task 1 completed">
+      <option name="closed" value="true" />
+      <created>1739457148682</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1739457148682</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25070441&#10;Task 6 completed(If a function is placed before a done(), then it is necessary to close the turtle window)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25075731&#10;Completed Task 2(New method)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25075731&#10;Completed Task 2" />
     <MESSAGE value="https://kompege.ru/variant?kim=25076364&#10;Completed Task 2" />
@@ -564,7 +562,8 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25081650&#10;Task 26 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25081650&#10;Task 17 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25081654&#10;Task 17 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25081654&#10;Task 17 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25082369&#10;Task 1 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25082369&#10;Task 1 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
