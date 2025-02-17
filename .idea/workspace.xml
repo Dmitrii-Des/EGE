@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25083158&#10;Task 17 completed" />
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25083166&#10;Task 25 completed(method 2)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +93,7 @@
     "Python.Task-2-7667.executor": "Run",
     "Python.Task-2-9733.executor": "Run",
     "Python.Task-2-9771.executor": "Run",
+    "Python.Task-25-4603(2).executor": "Run",
     "Python.Task-25-4603.executor": "Run",
     "Python.Task-26-8168.executor": "Run",
     "Python.Task-26-8512.executor": "Run",
@@ -154,22 +155,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00033" summary="https://kompege.ru/variant?kim=25077879&#10;Task 5 completed">
-      <option name="closed" value="true" />
-      <created>1737642044370</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1737642044370</updated>
-    </task>
-    <task id="LOCAL-00034" summary="https://kompege.ru/variant?kim=25077879&#10;Task 8 completed">
-      <option name="closed" value="true" />
-      <created>1737642584098</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1737642584098</updated>
     </task>
     <task id="LOCAL-00035" summary="https://kompege.ru/variant?kim=25077882%27&#10;Task 15 completed">
       <option name="closed" value="true" />
@@ -547,12 +532,26 @@
       <option name="project" value="LOCAL" />
       <updated>1739803217439</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="https://kompege.ru/variant?kim=25083166&#10;Task 25 completed">
+      <option name="closed" value="true" />
+      <created>1739804386871</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1739804386871</updated>
+    </task>
+    <task id="LOCAL-00083" summary="https://kompege.ru/variant?kim=25083166&#10;Task 25 completed(method 2)">
+      <option name="closed" value="true" />
+      <created>1739805378333</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1739805378333</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25078603&#10;Task 15 completed" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25080912&#10;Task 1 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25080912&#10;Task 2 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25080912&#10;Task 12 completed" />
     <MESSAGE value="gitignore" />
@@ -576,7 +575,9 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25083158&#10;Task 8 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25083158&#10;Task 15 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25083158&#10;Task 17 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25083158&#10;Task 17 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25083166&#10;Task 25 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25083166&#10;Task 25 completed(method 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25083166&#10;Task 25 completed(method 2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
