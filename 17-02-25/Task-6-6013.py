@@ -6,6 +6,7 @@ m = 10
 for i in range(2):
     rt(120)
     fd(7 * m)
+rt(300)
 for i in range(2):
     rt(120)
     fd(7 * m)
