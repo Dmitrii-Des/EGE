@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25084511&#10;Task 12 completed.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25084536&#10;Task 25 completed." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,14 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00049" summary="https://kompege.ru/variant?kim=25078603&#10;Task 15 completed">
-      <option name="closed" value="true" />
-      <created>1738598249488</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1738598249488</updated>
     </task>
     <task id="LOCAL-00050" summary="https://kompege.ru/variant?kim=25078603&#10;Task 15 completed">
       <option name="closed" value="true" />
@@ -563,11 +553,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740408877244</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="https://kompege.ru/variant?kim=25084536&#10;Task 25 completed.">
+      <option name="closed" value="true" />
+      <created>1740411153202</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1740411153202</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25082369&#10;Task 2 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25082369&#10;Task 2 completed(method 2)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25082369&#10;Task 2 completed(method 1)" />
     <MESSAGE value="https://kompege.ru/variant?kim=25082369&#10;Task 3 completed" />
@@ -592,7 +589,8 @@
     <MESSAGE value="https://kompege.ru/task&#10;Task 26 completed." />
     <MESSAGE value="https://kompege.ru/variant?kim=25084511&#10;Task 17 completed." />
     <MESSAGE value="https://kompege.ru/variant?kim=25084511&#10;Task 12 completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25084511&#10;Task 12 completed." />
+    <MESSAGE value="https://kompege.ru/variant?kim=25084536&#10;Task 25 completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25084536&#10;Task 25 completed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
