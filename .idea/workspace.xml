@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25085301&#10;Task 25 completed" />
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25085301&#10;Task 25 completed">
+      <change beforePath="$PROJECT_DIR$/24-02-25/Task-25-896.py" beforeDir="false" afterPath="$PROJECT_DIR$/24-02-25/Task-25-896.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +114,7 @@
     "Python.Task-25-4628(1).executor": "Run",
     "Python.Task-25-4628.executor": "Run",
     "Python.Task-25-5477.executor": "Run",
+    "Python.Task-25-896.executor": "Run",
     "Python.Task-26-18967.executor": "Run",
     "Python.Task-26-8168.executor": "Run",
     "Python.Task-26-8512.executor": "Run",
@@ -175,14 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00056" summary="https://kompege.ru/variant?kim=25080927&#10;Task 15 completed">
-      <option name="closed" value="true" />
-      <created>1738854975543</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1738854975543</updated>
     </task>
     <task id="LOCAL-00057" summary="https://kompege.ru/variant?kim=25080927&#10;Task 15 completed">
       <option name="closed" value="true" />
@@ -568,7 +563,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740669783461</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="https://kompege.ru/variant?kim=25085301&#10;Task 25 completed">
+      <option name="closed" value="true" />
+      <created>1740670458077</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1740670458077</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
