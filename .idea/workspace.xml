@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25085301&#10;Task 25 completed">
-      <change beforePath="$PROJECT_DIR$/24-02-25/Task-25-896.py" beforeDir="false" afterPath="$PROJECT_DIR$/24-02-25/Task-25-896.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +107,7 @@
     "Python.Task-25-11955(1).executor": "Run",
     "Python.Task-25-11955.executor": "Run",
     "Python.Task-25-17536.executor": "Run",
+    "Python.Task-25-18620.executor": "Run",
     "Python.Task-25-1867.executor": "Run",
     "Python.Task-25-19755.executor": "Run",
     "Python.Task-25-4603(2).executor": "Run",
@@ -124,6 +125,7 @@
     "Python.Task-5-18578.executor": "Run",
     "Python.Task-5-18920.executor": "Run",
     "Python.Task-5-19237.executor": "Run",
+    "Python.Task-5-19872.executor": "Run",
     "Python.Task-5-9736.executor": "Run",
     "Python.Task-6-14173.executor": "Run",
     "Python.Task-6-17519.executor": "Run",
@@ -178,14 +180,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00057" summary="https://kompege.ru/variant?kim=25080927&#10;Task 15 completed">
-      <option name="closed" value="true" />
-      <created>1738855500189</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1738855500189</updated>
     </task>
     <task id="LOCAL-00058" summary="https://kompege.ru/variant?kim=25080927&#10;Task 15 completed">
       <option name="closed" value="true" />
@@ -571,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740670458077</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="https://kompege.ru/variant?kim=25085301&#10;Task 25 completed">
+      <option name="closed" value="true" />
+      <created>1740671538106</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1740671538106</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
