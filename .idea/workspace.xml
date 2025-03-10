@@ -111,6 +111,7 @@
     "Python.Task-2-9771.executor": "Run",
     "Python.Task-23-1865.executor": "Run",
     "Python.Task-23-4601.executor": "Run",
+    "Python.Task-23-4626.executor": "Run",
     "Python.Task-25-11814(1).executor": "Debug",
     "Python.Task-25-11814.executor": "Run",
     "Python.Task-25-11955(1).executor": "Run",
@@ -193,22 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00073" summary="https://kompege.ru/variant?kim=25082369&#10;Task 8 completed">
-      <option name="closed" value="true" />
-      <created>1739460687988</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1739460687988</updated>
-    </task>
-    <task id="LOCAL-00074" summary="https://kompege.ru/variant?kim=25082369&#10;Task 9 completed">
-      <option name="closed" value="true" />
-      <created>1739461614278</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1739461614278</updated>
     </task>
     <task id="LOCAL-00075" summary="https://kompege.ru/variant?kim=25082369&#10;Task 12 completed">
       <option name="closed" value="true" />
@@ -586,7 +571,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741620783265</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="https://kompege.ru/variant?kim=25087370&#10;Task 23 completed">
+      <option name="closed" value="true" />
+      <created>1741621115360</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1741621115360</updated>
+    </task>
+    <task id="LOCAL-00123" summary="https://kompege.ru/variant?kim=25087370&#10;Task 23 completed">
+      <option name="closed" value="true" />
+      <created>1741621312879</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1741621312879</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
