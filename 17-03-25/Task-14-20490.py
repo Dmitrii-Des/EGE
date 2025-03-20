@@ -12,3 +12,4 @@ for x in range(1, 2006):
     if cnt_4 > cnt_1:
         ans.append(x)
 print(max(ans))
+
