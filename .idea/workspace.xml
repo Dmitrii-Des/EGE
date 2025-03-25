@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25090569&#10;Task 2 completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25090569&#10;Task 3 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,6 +162,7 @@
     "Python.Task-5-20182.executor": "Run",
     "Python.Task-5-7607.executor": "Run",
     "Python.Task-5-9736.executor": "Run",
+    "Python.Task-5.executor": "Run",
     "Python.Task-6-14173.executor": "Run",
     "Python.Task-6-17519.executor": "Run",
     "Python.Task-6-17625.executor": "Run",
@@ -198,11 +197,11 @@
       <recent name="C:\Users\DHohlov\Desktop\EGE\26-12-24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DHohlov\Desktop\EGE\25-03-25" />
       <recent name="C:\Users\DHohlov\Desktop\EGE\24-03-25" />
       <recent name="C:\Users\DHohlov\Desktop\EGE\20-03-25" />
       <recent name="C:\Users\DHohlov\Desktop\EGE\17-03-25" />
       <recent name="C:\Users\DHohlov\Desktop\EGE\13-03-25" />
-      <recent name="C:\Users\DHohlov\Desktop\EGE\15-03-25" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -220,14 +219,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00112" summary="https://kompege.ru/variant?kim=25086035&#10;Task 16 completed">
-      <option name="closed" value="true" />
-      <created>1741015892627</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1741015892627</updated>
     </task>
     <task id="LOCAL-00113" summary="https://kompege.ru/variant?kim=25086035&#10;Task 16 completed">
       <option name="closed" value="true" />
@@ -613,7 +604,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742894063509</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="https://kompege.ru/variant?kim=25090569&#10;Task 3 completed">
+      <option name="closed" value="true" />
+      <created>1742894487802</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1742894487802</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,7 +627,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25088217&#10;Task 2 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25088217&#10;Task 17 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25088219&#10;Task 23 completed" />
     <MESSAGE value="https://kompege.ru/task&#10;Task 26 completed" />
@@ -653,7 +651,8 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 1 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 2 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25090569&#10;Task 2 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 3 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25090569&#10;Task 3 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
