@@ -16,5 +16,4 @@ for N in range(1, 100_00):
     R = int(R, 4)
     if R > 120 and R % 2 == 0:
         ans.append(R)
-
 print(min(ans))
