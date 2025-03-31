@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/task&#10;Task 25 completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,22 +234,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00138" summary="https://kompege.ru/variant?kim=25088974&#10;Task 3 completed">
-      <option name="closed" value="true" />
-      <created>1742221771969</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1742221771969</updated>
-    </task>
-    <task id="LOCAL-00139" summary="https://kompege.ru/variant?kim=25088974&#10;Task 5 completed">
-      <option name="closed" value="true" />
-      <created>1742223053439</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1742223053439</updated>
     </task>
     <task id="LOCAL-00140" summary="https://kompege.ru/variant?kim=25088974&#10;Task 6 completed">
       <option name="closed" value="true" />
@@ -629,7 +611,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743433082191</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed">
+      <option name="closed" value="true" />
+      <created>1743435602388</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1743435602388</updated>
+    </task>
+    <task id="LOCAL-00188" summary="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed">
+      <option name="closed" value="true" />
+      <created>1743435955105</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1743435955105</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -645,7 +643,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://kompege.ru/variant?kim=25090443&#10;Task 17 completed" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 1 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 2 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 5 completed" />
@@ -669,7 +666,8 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25091042&#10;Task 12 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25089716&#10;Task 19-21 completed" />
     <MESSAGE value="https://kompege.ru/task&#10;Task 25 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/task&#10;Task 25 completed" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
