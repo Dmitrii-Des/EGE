@@ -23,7 +23,7 @@ with open('9_4589.txt') as file:
 cnt = 0
 
 for i in data:
-    if f1(i) and f2(i) and f3(i) and f4(i):
+    if f1(i) and f2(i) and f3(i) and f4(i): #Все возможные функции для второго пункта задачи
         cnt += 1
 
 print(cnt)
