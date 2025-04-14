@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25063517&#10;Task 9 completed">
+    <list default="true" id="645d3572-0b35-4a88-8447-b80c8fbb0ce2" name="Changes" comment="https://kompege.ru/variant?kim=25093318&#10;Task 6 completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.3.executor": "Run",
+    "Python.Proba-after-search.executor": "Run",
     "Python.Proba.executor": "Run",
     "Python.Task -8-23-12-2024.executor": "Run",
     "Python.Task-1-14443.executor": "Run",
@@ -188,6 +190,7 @@
     "Python.Task-6-17625.executor": "Run",
     "Python.Task-6-18131.executor": "Run",
     "Python.Task-6-18921.executor": "Run",
+    "Python.Task-6-21405.executor": "Run",
     "Python.Task-6-6013.executor": "Run",
     "Python.Task-6.executor": "Run",
     "Python.Task-7-18872.executor": "Run",
@@ -246,46 +249,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734963267801</updated>
-    </task>
-    <task id="LOCAL-00152" summary="https://kompege.ru/task&#10;Task 14 completed">
-      <option name="closed" value="true" />
-      <created>1742481051781</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1742481051781</updated>
-    </task>
-    <task id="LOCAL-00153" summary="https://kompege.ru/variant?kim=25089716&#10;Task 19 completed">
-      <option name="closed" value="true" />
-      <created>1742485034579</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1742485034579</updated>
-    </task>
-    <task id="LOCAL-00154" summary="https://kompege.ru/variant?kim=25090443&#10;Task 19-21 completed">
-      <option name="closed" value="true" />
-      <created>1742825902722</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1742825902722</updated>
-    </task>
-    <task id="LOCAL-00155" summary="https://kompege.ru/variant?kim=25090443&#10;Task 12 completed">
-      <option name="closed" value="true" />
-      <created>1742826315188</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1742826315188</updated>
-    </task>
-    <task id="LOCAL-00156" summary="https://kompege.ru/variant?kim=25090443&#10;Task 17 completed">
-      <option name="closed" value="true" />
-      <created>1742827189632</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1742827189632</updated>
     </task>
     <task id="LOCAL-00157" summary="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed">
       <option name="closed" value="true" />
@@ -639,7 +602,47 @@
       <option name="project" value="LOCAL" />
       <updated>1744041265621</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="https://future-step.ru/tutor/python-regexp/&#10;До search()">
+      <option name="closed" value="true" />
+      <created>1744477294771</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1744477294771</updated>
+    </task>
+    <task id="LOCAL-00202" summary="https://future-step.ru/tutor/python-regexp/&#10;До search()">
+      <option name="closed" value="true" />
+      <created>1744477932900</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1744477932900</updated>
+    </task>
+    <task id="LOCAL-00203" summary="https://future-step.ru/tutor/python-regexp/&#10;Только search">
+      <option name="closed" value="true" />
+      <created>1744477956431</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1744477956431</updated>
+    </task>
+    <task id="LOCAL-00204" summary="https://future-step.ru/tutor/python-regexp/&#10;Только finditer()">
+      <option name="closed" value="true" />
+      <created>1744479693156</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1744479693156</updated>
+    </task>
+    <task id="LOCAL-00205" summary="https://kompege.ru/variant?kim=25093318&#10;Task 6 completed">
+      <option name="closed" value="true" />
+      <created>1744640243700</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1744640243700</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,10 +657,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 2 completed" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 5 completed" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 5 completed" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 6 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 8 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 10 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25090569&#10;Task 12 completed" />
@@ -679,7 +678,11 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25090444&#10;Task 19-21 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25091922&#10;Task 19-21 completed" />
     <MESSAGE value="https://kompege.ru/variant?kim=25063517&#10;Task 9 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25063517&#10;Task 9 completed" />
+    <MESSAGE value="https://future-step.ru/tutor/python-regexp/&#10;До search()" />
+    <MESSAGE value="https://future-step.ru/tutor/python-regexp/&#10;Только search" />
+    <MESSAGE value="https://future-step.ru/tutor/python-regexp/&#10;Только finditer()" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25093318&#10;Task 6 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25093318&#10;Task 6 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
