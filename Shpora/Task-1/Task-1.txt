@@ -1,0 +1,11 @@
+Подключение библиотеки, для реализации перестановок заголовков
+from itertools import permutations
+
+Строки из матрицы должны переписываться строго сверху вниз
+matrix = 'все строки из матрицы'.split()
+graph = 'все ребра из графа'.split()
+
+print(*range(1, 8)) # количество столбцов в матрице
+for i in permutations('названия вершин'):
+   if all(str(i.index(x) + 1) in matrix[i.index(y)] for x, y in graph):
+       print(*i)
