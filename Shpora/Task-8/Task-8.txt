@@ -1,0 +1,22 @@
+Все возможные комбинации определенной длины:
+from itertools import product
+alph = '1234' #алфавит из условия задания
+length = 5 #длина комбинаций из условия
+for i in product(alph, repeat=length):
+   i = ''.join(i)
+
+Все возможные перестановки:
+from itertools import permutations
+alph = '1234' #алфавит из условия задания
+for i in set(permutations(alph)):
+   i = ''.join(i)
+
+Тип заданий с пронумерованным списком комбинаций:
+from itertools import product
+alph = 'ДВИАЬ' #алфавит из условия
+#если слова в алфавитном порядке
+alph = sorted(alph)
+#если слова в обратном алфавитном порядке
+alph = sorted(alph, reverse=True)
+for pos, val in enumerate(product(alph, repeat=5), start=1):
+   val = ''.join(val)
