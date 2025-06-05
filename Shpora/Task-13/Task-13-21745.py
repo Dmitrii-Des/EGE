@@ -14,11 +14,7 @@ for mask in range(10, 31):
                 i = f'{int(i):32b}'
                 if i[-1] == '0':
                     cnt1 += 1
-            cnt2 = 0
-            for i in net2.hosts():
-                i = f'{int(i):032b}'
-                if i[-1] == '0':
-                    cnt2 += 1
+            cnt2 = (net2.num_addresses - 2) // 2
             ans = max(ans, cnt1, cnt2)
 
 print(ans)
